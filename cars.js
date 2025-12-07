@@ -126,4 +126,5 @@ let showCar = function(location)
         table.append(tr); //הוספת השורה לטבלה
         currentID = cars[location].getID();
     }
+
 }
